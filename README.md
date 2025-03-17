@@ -1,6 +1,6 @@
 # Desafio da Dio - Criar um sistema bancario com Python ✨
 
-![logo python](d1e0e4d8b16641b1cf652e190d62bbf2.jpg)
+<img src="d1e0e4d8b16641b1cf652e190d62bbf2.jpg" alt="logo python" width="100">
 
 #### ***Resumo***
 
